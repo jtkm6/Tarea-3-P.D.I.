@@ -44,23 +44,26 @@ Tamaño del Kernel.
 Valores en la matriz del kernel separados por espacio y saltos de linea.
 
 ## Ejemplo:
-> 3
-> 0.0 -1.0 0.0
-> -1.0 5.0 -1.0
-> 0.0 -1.0 0.0
+
+```
+3
+0.0 -1.0 0.0
+-1.0 5.0 -1.0
+0.0 -1.0 0.0
+```
 
 [Archivo De Ejemplo]
 
 - - - -
 ### Imagenes de la aplicacion
 
-![Screenshot de la Aplicacion](./doc/screenshot_1.png "Screenshot #1")
+![Screenshot de la Aplicacion](./doc/Screamshot_1.png "Screenshot #1")
 
-![Screenshot de la Aplicacion](./doc/screenshot_2.png "Screenshot #2")
+![Screenshot de la Aplicacion](./doc/Screamshot_2.png "Screenshot #2")
 
-![Screenshot de la Aplicacion](./doc/screenshot_3.png "Screenshot #3")
+![Screenshot de la Aplicacion](./doc/Screamshot_3.png "Screenshot #3")
 
-![Screenshot de la Aplicacion](./doc/screenshot_4.png "Screenshot #3")
+![Screenshot de la Aplicacion](./doc/Screamshot_4.png "Screenshot #3")
 
 - - - - 
 ### Versión
