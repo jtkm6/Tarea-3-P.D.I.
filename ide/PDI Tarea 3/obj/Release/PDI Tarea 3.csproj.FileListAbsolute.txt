@@ -1,0 +1,8 @@
+C:\Users\jtkm6\Documents\Visual Studio 2015\Projects\PDI Tarea 3\PDI Tarea 3\bin\Release\PDI Tarea 3.exe.config
+C:\Users\jtkm6\Documents\Visual Studio 2015\Projects\PDI Tarea 3\PDI Tarea 3\bin\Release\PDI Tarea 3.exe
+C:\Users\jtkm6\Documents\Visual Studio 2015\Projects\PDI Tarea 3\PDI Tarea 3\bin\Release\PDI Tarea 3.pdb
+C:\Users\jtkm6\Documents\Visual Studio 2015\Projects\PDI Tarea 3\PDI Tarea 3\obj\Release\PDI_Tarea_3.Form.resources
+C:\Users\jtkm6\Documents\Visual Studio 2015\Projects\PDI Tarea 3\PDI Tarea 3\obj\Release\PDI_Tarea_3.Properties.Resources.resources
+C:\Users\jtkm6\Documents\Visual Studio 2015\Projects\PDI Tarea 3\PDI Tarea 3\obj\Release\PDI Tarea 3.csproj.GenerateResource.Cache
+C:\Users\jtkm6\Documents\Visual Studio 2015\Projects\PDI Tarea 3\PDI Tarea 3\obj\Release\PDI Tarea 3.exe
+C:\Users\jtkm6\Documents\Visual Studio 2015\Projects\PDI Tarea 3\PDI Tarea 3\obj\Release\PDI Tarea 3.pdb
